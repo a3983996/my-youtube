@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "微軟正黑體",Arial, Helvetica, sans-serif;
+}
+ul{
+    list-style: none;
+}
+input{
+    border-radius: 0;
+}
+main{
+    min-height: 100vh;
+    background-color: #333333;
+}
+@import "color";
+@import "nav";
+@import "homepage";
+@import "video";

@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "JX1PZKMnfn5snWo9jID1WILMrzk",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "TW",
+  "pageInfo": {
+    "totalResults": 785565,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5Zcs9EhEk2SVaOCNbPmn_1pPBA4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A8tl4cZq7V0"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-09T15:25:33Z",
+        "channelId": "UC6VW31YgMRb8QI8buCMg54A",
+        "title": "陳奕迅精選歌曲30首",
+        "description": "目前为止用过的最快的机场:https://bywave.io/aff.php?aff=7834 01- 00:00:00 #陳奕迅-富士山下02- 00:04:19 #陳奕迅-好久不見03- 00:08:30 #陳奕迅-紅玫瑰04- ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A8tl4cZq7V0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A8tl4cZq7V0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A8tl4cZq7V0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "那些好听的歌",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-09T15:25:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qd-FRipq5Agvic7ZoPmRzQcL2Zs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xcB1RENH5ZQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-19T15:05:20Z",
+        "channelId": "UCIaJNmSZNWgWh8AjeIIb1dg",
+        "title": "陳奕迅 2018 - 陳奕迅Eason國語熱門串燒精選 || Eason Chan Best Songs Collection - 抒情歌合集",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xcB1RENH5ZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xcB1RENH5ZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xcB1RENH5ZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "趙琬婷",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-19T15:05:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u_idMmnO_N1X5NsUBB_SUxTwCg8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r59XlSdYpq0"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-21T17:45:23Z",
+        "channelId": "UCmAvrmEaM5ejkG0rxzx_pAA",
+        "title": "eason 陈奕迅18首好听的歌曲精选 ~ K歌之王陈奕迅",
+        "description": "eason 陈奕迅18首好听的歌曲精选~ K歌之王陈奕迅如果你还想听的歌曲，可以关注+留言.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r59XlSdYpq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r59XlSdYpq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r59XlSdYpq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AIN中文流行音乐街",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-21T17:45:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "snVprU_zbJ0Ry2I-QkdZAmf8Uqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bWdawOZ0mDI"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-24T17:41:36Z",
+        "channelId": "UCb7_yNRjXpYM55zYhZ8Tz-Q",
+        "title": "陳奕迅 - 讓我留在你身邊(高音質版)",
+        "description": "作詞：唐漢霄作曲：唐漢霄我從來不說話因為我害怕沒有人回答我從來不掙扎因為我知道這世界太大太多時間浪費太多事要面對太多已無所謂太多難辨真偽太多紛擾 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bWdawOZ0mDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bWdawOZ0mDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bWdawOZ0mDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Liu Fu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-24T17:41:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZIiZyJzeQTnecbkzIOUzEKMro4A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T9V45IhnMRU"
+      },
+      "snippet": {
+        "publishedAt": "2014-05-08T11:12:38Z",
+        "channelId": "UCa2kD29VbGw5BAKJD2naREA",
+        "title": "陳奕迅 Eason Chan -《你給我聽好》MV",
+        "description": "立即到各大數碼平台收聽專輯《rice & shine》: https://umhk.lnk.to/ListenUpYD 香港環球唱片官方網頁: http://www.umg.com.hk/ 香港環球唱片Facebook 專頁: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T9V45IhnMRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T9V45IhnMRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T9V45IhnMRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "universalmusichk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-05-08T11:12:38Z"
+      }
+    }
+  ]
+}
